@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ms-listaEspera.iml" filepath="$PROJECT_DIR$/.idea/ms-listaEspera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-listaEspera/ms-listaEspera.iml" filepath="$PROJECT_DIR$/ms-listaEspera/ms-listaEspera.iml" />
     </modules>
   </component>
 </project>

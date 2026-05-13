@@ -1,5 +1,5 @@
 package com.redNorte.ms_listaEspera.model;
 
 public enum TipoSolicitud {
-    CONSULTA, CIRUUGIA
+    CONSULTA, CIRUGIA
 }
